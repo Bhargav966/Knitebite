@@ -1,0 +1,262 @@
+*{
+    margin: auto;
+}
+body{
+    height: 3000px;
+}
+/* header starts here */
+.header{
+    /* background-color: rgba(165, 42, 42, 0.401); */
+    background-image: url(./aboutimages/banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    /* background-attachment: fixed; */
+}
+.header1{
+    height: 100px;
+    width: 100vw;
+    background-color:rgba(0, 0, 0 , 0.5);
+    position: fixed;
+    top: 0px;
+}
+.header1-inner-img{
+    height: 100px;
+    width: 120px;
+    margin-left: 80px;
+}
+.anchor1{
+    position: absolute;
+    right: 420px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor2{
+    position: absolute;
+    right: 330px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor3{
+    position: absolute;
+    right: 240px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor4{
+    position: absolute;
+    right: 120px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor5{
+    position: absolute;
+    top: 505px;
+    left: 550px;
+}
+.anchor6{
+    position: absolute;
+    top: 505px;
+    left: 800px;
+}
+.header-heading1{
+    width: 600px;
+    font-size: 45px;
+    margin-left: 100px;
+    position: absolute;
+    top: 300px;
+    color: white;
+    word-spacing: 15px;
+}
+.header2-img1{
+    padding: 80px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.header3-para1{
+    width: 650px;
+    font-size: 20px;
+    position: absolute;
+    top: 850px;
+    margin-left: 800px;
+    word-spacing: 8px;
+    line-height: 30px;
+}
+.header4-para1{
+    margin-left: 120px;
+    width: 560px;
+    font-size: 22px;
+    line-height: 30px;
+    margin-top: 100px;
+}
+.header5-para1{
+    margin-left: 120px;
+    width: 580px;
+    font-size: 22px;
+    line-height: 30px;
+    margin-top: 100px;
+}
+.header6-img1{
+    width: 650px;
+    margin-left: 800px;
+    position: absolute;
+    top: 1050px;
+    height: 450px;
+}
+.header7-img1{
+    width: 650px;
+    margin-left: 115px;
+    position: absolute;
+    top: 1580px;
+    height: 500px;
+}
+.header7-para1{
+    width: 580px;
+    position: absolute;
+    top: 1800px;
+    margin-left: 810px;
+    font-size: 22px;
+    line-height: 30px;
+}
+.header8-heading1{
+    top: 2190px;
+    position: absolute;
+    margin-left: 115px;
+    font-size: 40px;
+}
+.header8-para1{
+    margin-left: 115px;
+    position: absolute;
+    top: 2270px;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.header8-para2{
+    margin-left: 290px;
+    position: absolute;
+    top: 2280px;
+    font-size: 20px;
+}
+.header8-para3{
+    margin-left: 115px;
+    position: absolute;
+    top: 2310px;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.header8-para4{
+    margin-left: 290px;
+    position: absolute;
+    top: 2320px;
+    font-size: 20px;
+}
+.header8-para5{
+    margin-left: 115px;
+    position: absolute;
+    top: 2360px;
+    font-size: 29px;
+}
+.header8-para6{
+    margin-left: 250px;
+    position: absolute;
+    top: 2370px;
+    font-size: 20px;
+}
+.header8-para7{
+    margin-left: 115px;
+    position: absolute;
+    top: 2410px;
+    font-size: 29px;
+}
+.header8-para8{
+    margin-left: 290px;
+    position: absolute;
+    top: 2420px;
+    font-size: 20px;
+}
+.header8-para9{
+    margin-left: 115px;
+    position: absolute;
+    top: 2460px;
+    font-size: 29px;
+}
+.header8-para10{
+    margin-left: 220px;
+    position: absolute;
+    top: 2470px;
+    font-size: 20px;
+}
+.header8-para11{
+    margin-left: 115px;
+    position: absolute;
+    top: 2510px;
+    font-size: 29px;
+}
+.header8-para12{
+    margin-left: 250px;
+    position: absolute;
+    top: 2520px;
+    font-size: 20px;
+}
+.header9 h1{
+    font-size: 40px;
+    position: absolute;
+    top: 2300px;
+    right: 550px;
+    
+}
+.insta{
+    position: absolute;
+    right: 650px;
+    top: 2400px;
+}
+.facebook{
+    position: absolute;
+    right: 560px;
+    top: 2400px;
+}
+.twitter{
+    position: absolute;
+    right: 460px;
+    top: 2400px;
+}
+.linked-in{
+    position: absolute;
+    right: 360px;
+    top: 2400px;
+}
+.youtube{
+    position: absolute;
+    right: 260px;
+    top: 2400px;
+}
+/* header ends here */
+.logo{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 70px;
+}
+.footer5{
+    /* position: absolute; */
+    margin-top: 1530px;
+    padding: 20px;
+    width: 1479px;
+    height: 20px;
+    background-color: #DB6EC6;
+}
+.footer5 p{
+    text-align: center;
+    color: white;
+    font-size: 19px;
+}

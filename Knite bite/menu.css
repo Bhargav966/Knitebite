@@ -1,0 +1,205 @@
+*{
+    margin: auto;
+}
+/* header starts here */
+.header{
+    /* background-color: rgba(165, 42, 42, 0.401); */
+    background-image: url(./menuimages/banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    /* background-attachment: fixed; */
+}
+.logo{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 70px;
+}
+.header1{
+    height: 100px;
+    width: 100vw;
+    background-color:rgba(0, 0, 0 , 0.5);
+    position: fixed;
+    top: 0px;
+}
+.header1-inner-img{
+    height: 100px;
+    width: 120px;
+    margin-left: 80px;
+}
+.anchor1{
+    position: absolute;
+    right: 420px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor2{
+    position: absolute;
+    right: 330px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor3{
+    position: absolute;
+    right: 240px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor4{
+    position: absolute;
+    right: 120px;
+    top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.anchor5{
+    position: absolute;
+    top: 505px;
+    left: 550px;
+}
+.anchor6{
+    position: absolute;
+    top: 505px;
+    left: 800px;
+}
+.header-img1{
+    margin-left: 250px;
+    margin-top: 80px;
+    width: 100px;
+}
+.header-para1{
+    margin-left: 220px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 300px;
+}
+.header-img2{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 275px;
+}
+.header-img3{
+    margin-left: 300px;
+    position: absolute;
+    top: 160px;
+    height: 150px;
+}
+.header-para2{
+    margin-left: 570px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 300px;
+}
+.header-img4{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 685px;
+}
+.header-img5{
+    margin-left: 720px;
+    position: absolute;
+    top: 160px;
+    height: 150px;
+}
+.header-para3{
+    margin-left: 1000px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 300px;
+}
+.header-img6{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: 1105px;
+}
+.header-img7{
+    margin-left: 250px;
+    position: absolute;
+    top: 450px;
+    width: 100px;
+    left: 2px;
+}
+.header-para4{
+    margin-left: 230px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 600px;
+}
+.header-img8{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 680px;
+    left: 275px;
+}
+.header-img9{
+    margin-left: 322px;
+    position: absolute;
+    top: 470px;
+}
+.header-para5{
+    margin-left: 640px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 600px;
+}
+.header-img10{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 680px;
+    left: 680px;
+}
+.header-img11{
+    margin-left: 715px;
+    position: absolute;
+    top: 490px;
+}
+.header-para6{
+    margin-left: 1050px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    top: 600px;
+}
+.header-img12{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    top: 680px;
+    left: 1105px;
+}
+/* header ends here */
+/* .footer5{
+    position: absolute;
+    bottom: 0px;
+    padding: 20px;
+    width: 100%;
+    height: 20px;
+    background-color: #DB6EC6;
+}
+.footer5 p{
+    text-align: center;
+    color: white;
+    font-size: 19px;
+} */
